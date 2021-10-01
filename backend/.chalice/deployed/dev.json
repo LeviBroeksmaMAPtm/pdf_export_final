@@ -1,10 +1,10 @@
 {
   "resources": [
     {
-      "name": "default-role",
+      "name": "api_handler_role",
       "resource_type": "iam_role",
-      "role_arn": "arn:aws:iam::817587303612:role/python_lambda_levi-dev",
-      "role_name": "python_lambda_levi-dev"
+      "role_arn": "arn:aws:iam::817587303612:role/python_lambda_levi-dev-api_handler",
+      "role_name": "python_lambda_levi-dev-api_handler"
     },
     {
       "name": "api_handler",
